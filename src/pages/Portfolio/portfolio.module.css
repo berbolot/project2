@@ -1,0 +1,9 @@
+.jk {
+    margin-left: 11%;
+    margin-right: 11%;
+  }
+  .jk > img {
+    height: 400px;
+    width: 340px;
+    margin: 20px;
+  }

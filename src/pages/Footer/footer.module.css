@@ -1,0 +1,16 @@
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  height: 300px;
+  background-color: gray;
+  padding-top: 100px;
+}
+
+.ort {
+  text-align: center;
+}
+
+.a {
+  height: 50px;
+  width: 70px;
+}

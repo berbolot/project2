@@ -1,0 +1,17 @@
+.man {
+    display: flex;
+    margin-left: 13%;
+    margin-right: 13%;
+  }
+  
+  .get {
+    height: 450px;
+    width: 300px;
+  }
+  
+  .c {
+    margin: 30px;
+  }
+  .cc {
+    margin: 30px;
+  }
